@@ -1,3 +1,4 @@
+From pylab import *
 "Variabler"
 Fødsel=
 Zombiedrap=
